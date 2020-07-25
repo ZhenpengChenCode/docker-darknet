@@ -1,5 +1,5 @@
-# Sha256 corresponds to tag '16.04'
-FROM sha256:e5ec578bd8c334d7c9849fd9bbaa78ec25f2b51b0bf7c9e18b1e9b7ca32d6681
+# Sha256 corresponds to tag 'nvidia/cuda:10.0-cudnn7-devel-ubuntu16.04'
+FROM sha256:6cd48444de35a2aa8fa8652da86769205f6e895167d304537403e169bcee1fd8
 
 ENV DEBIAN_FRONTEND noninteractive
 
